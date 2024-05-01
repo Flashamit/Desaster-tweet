@@ -1,0 +1,5 @@
+tensorflow
+emoji
+numpy 
+pandas
+nltk
